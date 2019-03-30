@@ -3,4 +3,4 @@
 测试ssh
 
 jintian2
-jintian1
+jintian
